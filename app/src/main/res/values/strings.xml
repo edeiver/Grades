@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Grades</string>
+    <string name="create">Create</string>
+    <string name="list">List</string>
+    <string name="name">Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="grade_1">Grade 1</string>
+    <string name="grade_2">Grade 2</string>
+    <string name="grade_3">Grade 3</string>
+    <string name="student_title">Create Student</string>
+    <string name="save">Save</string>
+    <string name="no_records">No records to show</string>
+    <string name="done">Saved Successfully</string>
+    <string name="id">Id</string>
+    <string name="student">Student</string>
+    <string-array name="Menu">
+        <item>@string/create</item>
+        <item>@string/list</item>
+    </string-array>
+    <string name="error">Empty fields</string>
+
+</resources>

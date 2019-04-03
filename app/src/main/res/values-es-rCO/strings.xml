@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="create">Crear</string>
+    <string name="list">Lista</string>
+    <string name="name">Nombre</string>
+    <string name="last_name">Apellido</string>
+    <string name="grade_1">Nota 1</string>
+    <string name="grade_2">Nota 2</string>
+    <string name="grade_3">Nota 3</string>
+    <string name="student_title">Crear Estudiante</string>
+    <string name="save">Guardar</string>
+    <string name="no_records">La lista esta vacia</string>
+    <string name="done">Guardado</string>
+    <string name="id">Identificacion</string>
+    <string name="student">Estudiante</string>
+    <string name="error">Existen campos vacios</string>
+</resources>
